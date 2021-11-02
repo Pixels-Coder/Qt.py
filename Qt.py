@@ -331,6 +331,7 @@ _common_members = {
         "QWhatsThisClickedEvent",
         "QWheelEvent",
         "QWindowStateChangeEvent",
+        "QWindow",
         "qAlpha",
         "qBlue",
         "qGray",
